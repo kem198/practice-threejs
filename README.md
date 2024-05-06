@@ -19,3 +19,5 @@
 
 - [UNITY-CHAN! OFFICIAL WEBSITE](https://unity-chan.com/) (© Unity Technologies Japan/UCL)
 - [Unity glTFast Documentation \| Unity glTFast \| 6.0.1](https://docs.unity3d.com/Packages/com.unity.cloud.gltfast@6.0/manual/index.html)
+    - [Installation \| Unity glTFast \| 6.1.0](https://docs.unity3d.com/Packages/com.unity.cloud.gltfast@6.1/manual/installation.html)
+- [Unityでユニティちゃんがピンクになるのを解決する-14にゴー](https://blog.14nigo.net/2023/03/fixpinkunitychan.html)
