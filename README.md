@@ -2,7 +2,7 @@
 
 ## Deploy
 
-- 
+- [https://kenkenpa198.github.io/practice-threejs/](https://kenkenpa198.github.io/practice-threejs/)
 
 ## Reference
 
