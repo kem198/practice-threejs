@@ -4,7 +4,16 @@
 
 ## Deploy
 
+### on GitHub Pages
+
 - [https://kenkenpa198.github.io/practice-threejs/](https://kenkenpa198.github.io/practice-threejs/)
+    - PLATEAU/tpc12-1
+    - ユニティちゃん
+
+### on Vercel
+
+- [https://practice-threejs-nine.vercel.app/](https://practice-threejs-nine.vercel.app/)
+    - PLATEAU/tpc12-2
 
 ## Reference / Copyright
 
