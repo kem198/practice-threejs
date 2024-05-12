@@ -53,6 +53,7 @@ export const PlateauTileset: React.FC<PlateauTilesetProps> = ({
         if (centerRef.current) {
           const box = new Box3();
           const matrix = new Matrix4();
+          // @ts-ignore: ビルドエラーが出力されるが解決手段が見つからなかったため無効化
           tiles.getOrientedBounds(box, matrix);
           box.min.z = box.max.z = Math.min(box.min.z, box.max.z);
           box.applyMatrix4(matrix);
