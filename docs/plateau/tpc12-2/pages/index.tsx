@@ -23,9 +23,9 @@ const Index: NextPage = () => {
           </a>
         </li>
         <li>
-          <a href="https://www.geospatial.jp/ckan/dataset/plateau-tokyo23ku/resource/04a3109d-9392-42e9-95d2-e04bda7a8d42">
-            一般社団法人　社会基盤情報流通推進協議会$都市局$3D都市モデル（Project
-            PLATEAU）東京都23区$FBX
+          <a href="https://github.com/Project-PLATEAU/plateau-streaming-tutorial">
+            Project-PLATEAU/plateau-streaming-tutorial:
+            PLATEAU配信サービス利用のためのチュートリアル
           </a>
         </li>
       </ul>
