@@ -1,5 +1,11 @@
 {
   "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
   "resolutions": {
     "postprocessing": "~6.28.7"
   },
