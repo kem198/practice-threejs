@@ -5,9 +5,12 @@
 ## Deploy
 
 - [https://kenkenpa198.github.io/practice-threejs/](https://kenkenpa198.github.io/practice-threejs/)
-    - PLATEAU/tpc12-1
-    - PLATEAU/tpc12-2 (deploy on Vercel)
-    - ユニティちゃん
+  - Official
+    - three.js docs (deploy on Vercel)
+  - PLATEAU
+    - tpc12-1
+    - PLATEAUtpc12-2 (deploy on Vercel)
+  - ユニティちゃん
 
 ## Reference / Copyright
 
