@@ -1,9 +1,5 @@
 // https://threejs.org/docs/index.html#manual/en/introduction/Drawing-lines
 
-// https://threejs.org/docs/index.html#manual/en/introduction/WebGL-compatibility-check
-// 次のメソッドを使用すると、サポートされているかどうかを確認し、
-// サポートされていない場合はユーザーにメッセージを表示できます
-
 import * as THREE from "three";
 
 ///// レンダラー / カメラ / シーン の設定 /////
