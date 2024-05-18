@@ -1,3 +1,5 @@
+// https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
+
 import * as THREE from "three";
 
 ///// シーンの設定 /////
