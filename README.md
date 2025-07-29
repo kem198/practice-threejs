@@ -4,7 +4,7 @@
 
 ## Deploy
 
-- [https://kenkenpa198.github.io/practice-threejs/](https://kenkenpa198.github.io/practice-threejs/)
+- [https://kem198.github.io/practice-threejs/](https://kem198.github.io/practice-threejs/)
   - Official
     - three.js docs (deploy on Vercel)
   - PLATEAU
